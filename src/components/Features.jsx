@@ -141,7 +141,7 @@ const Features = () => (
 
         <BentoTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
           <BentoCard
-            src="videos/Final_final_video_for_Erah.mp4"
+            src="videos/Final_final_video_for_Erah.webm"
             title={
               <>
                 Co<b>mmun</b>autés
@@ -154,7 +154,7 @@ const Features = () => (
 
         <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0">
           <BentoCard
-            src="videos/oxwig-hope-lan.mp4"
+            src="videos/oxwig.mp4"
             title={
               <>
                 Va<b>l</b>orant
