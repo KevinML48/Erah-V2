@@ -141,7 +141,7 @@ const Features = () => (
 
         <BentoTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
           <BentoCard
-            src="videos/Final_final_video_for_Erah.webm"
+            src="videos/Final_final_video_for_Erah.mp4"
             title={
               <>
                 Co<b>mmun</b>autés
